@@ -1,1 +1,2 @@
-# lerngit
+# lerngi
+a=0
